@@ -11,7 +11,12 @@
 ## Sobre 
 O projeto consiste na resolução de dois problemas, um do SPOJ e outro do CSES. O problema do SPOJ se chama [WACHOVIA - Wachovia Bank](https://www.spoj.com/problems/WACHOVIA/) e o do CSES se chama [Increasing Subsequence](https://cses.fi/problemset/task/1145). A solução dos dois problemas é baseada no paradigma de programação dinâmica. 
 
+O problema do SPOJ foi resolvido utilizando o algoritmo do Knapsack. Já a questão do CSES foi resolvida utilizando o algoritmo da Maior Subsequência Crescente.
+
 ## Screenshots
+<img src="images/cses_verdict.png" width=500px/>
+
+![Wachovia](images/spoj_verdict.png)
 
 ## Instalação 
 **Linguagem**: C++17<br>
