@@ -2,8 +2,7 @@
 *    author: lucasfcm9
 *    created: 04.12.20 09:43:05
 **/
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
 
 using namespace std;
 
